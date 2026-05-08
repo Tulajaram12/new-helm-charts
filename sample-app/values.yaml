@@ -73,7 +73,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: app.new.tulaja.shop
+    - host: new.tulaja.shop
       paths:
         - path: /
           pathType: Prefix
